@@ -212,7 +212,7 @@ def exploit3():
 	p.interactive()
 
 if __name__ == "__main__":
-	# chose your exploit!
+	# choose your exploit!
 	# exploit1()
 	# exploit2()
 	# exploit3()
